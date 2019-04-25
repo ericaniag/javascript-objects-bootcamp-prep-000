@@ -1,7 +1,7 @@
 var playlist = { Beyonce : 'Countdown' };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist.artistName = 'songTitle';
+  console.log(playlist.artistName = 'songTitle');
   return playlist;
 }
 
